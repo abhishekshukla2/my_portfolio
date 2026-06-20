@@ -6,7 +6,7 @@ This is my personal portfolio website.
 - HTML
 - CSS
 
-## Live Demo
+## Live Demo:
 (link here)
 
 ## Author:
