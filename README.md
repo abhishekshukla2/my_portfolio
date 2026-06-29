@@ -9,5 +9,5 @@ This is my personal portfolio website.
  ## Live Demo:
 (link here)
 
-## Author:
+## Author
 Abhishek Shukla
