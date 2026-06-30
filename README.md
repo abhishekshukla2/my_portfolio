@@ -2,7 +2,7 @@
 
 This is my personal portfolio website.
 
-## Technologies Used
+## Technologies Used:
 - HTML
 - CSS
 
