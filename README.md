@@ -4,7 +4,7 @@ This is my personal portfolio website.
 
 ## Technologies Used:
 - HTML
-- C
+- CSS
 
  ## Live Demo:
 (link here)
