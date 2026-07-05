@@ -10,4 +10,4 @@ This is my personal portfolio website.
 (link here)
 
 ## Author:
-Abhishek Sh
+Abhishek Shukla
